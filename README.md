@@ -6,7 +6,7 @@ This repository contains solutions to various problems from LeetCode. Each probl
 
 The repository follows the following folder structure:
 
-- problem-1
+problem-1
  - solution-1.py
  - solution-2.py
  - solution-3.py
